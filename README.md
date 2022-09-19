@@ -1,6 +1,6 @@
 # Amazing animation gallery 
 
-* Used this repository as start: https://youtu.be/oGZNz-dh6qA 
+* Used this repository as start: https://github.com/liveldi/explosion_gallery_start
 
 ## Downloading and setup project
 
